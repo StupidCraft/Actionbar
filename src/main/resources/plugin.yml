@@ -1,0 +1,9 @@
+name: Actionbar
+version: '${project.version}'
+main: com.triassic.actionbar.Main
+api-version: 1.15
+prefix: Actionbar
+authors: [ Triassic ]
+softdepend: [ PlaceholderAPI ]
+description: Allows servers to display an actionbar to players that never disappears.
+website: https://triassic.dev

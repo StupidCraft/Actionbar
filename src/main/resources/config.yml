@@ -1,0 +1,25 @@
+#---------------------------------------------------------------------------#
+#                                                                           #
+#   █████╗  ██████╗████████╗██╗ ██████╗ ███╗   ██╗██████╗  █████╗ ██████╗   #
+#  ██╔══██╗██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗  #
+#  ███████║██║        ██║   ██║██║   ██║██╔██╗ ██║██████╔╝███████║██████╔╝  #
+#  ██╔══██║██║        ██║   ██║██║   ██║██║╚██╗██║██╔══██╗██╔══██║██╔══██╗  #
+#  ██║  ██║╚██████╗   ██║   ██║╚██████╔╝██║ ╚████║██████╔╝██║  ██║██║  ██║  #
+#  ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  #
+#                                                                           #
+#---------------------------------------------------------------------------#
+
+# Created by Triassic.
+# If you run into any issues, please create an issue on my GitHub repository.
+
+# Actionbar Configuration
+actionbar:
+  enabled: true # Whether to enable this feature or not. (Default: true)
+
+  # What message would you like to display in the actionbar?
+  # PlaceholderAPI placeholders are supported.
+  message: "&aChange this in the Actionbar configuration."
+
+
+# DO NOT EDIT.
+version: 1.0.0
